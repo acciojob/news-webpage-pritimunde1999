@@ -1,1 +1,41 @@
 /*  your css code here. If applicable */
+.main{
+	width:800px;
+	height:500px;
+	background:#F5F5F5;
+	padding:5px;
+	
+}
+.head{
+	background:#011e29;
+	color:white;
+	padding:1px;
+	text-align:center;
+	
+}
+
+.news{
+	display:flex;
+}
+
+.ar1, .ar2,.ar3{
+	background:white;
+	width: fit-content;
+	padding:10px;
+	border-radius:15px;
+	margin-top:10px;
+	margin-left:20px;
+	text-align:center;
+}
+.ar1{
+	height:120px;
+}
+.ar2{
+	width:300px;
+	height:fit-content;
+}
+
+.ar3{
+	width:170px;
+}
+
