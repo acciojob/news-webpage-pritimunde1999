@@ -18,7 +18,7 @@
 	display:flex;
 }
 
-.ar1, .ar2,.ar3{
+.latest-news-section , .ar2,.pictorial-news-section{
 	background:white;
 	width: fit-content;
 	padding:10px;
@@ -27,7 +27,7 @@
 	margin-left:20px;
 	text-align:center;
 }
-.ar1{
+.latest-news-section{
 	height:120px;
 }
 .ar2{
@@ -35,7 +35,7 @@
 	height:fit-content;
 }
 
-.ar3{
+.pictorial-news-section{
 	width:170px;
 }
 
